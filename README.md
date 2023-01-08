@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swebreza
 - 👀 I’m interested in React and Django framework.
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Django
+- 💞️ I’m looking to collaborate on React/Django
 - 📫 How to reach me? Ping me at swebreza@gmail.com
 
 <!---
