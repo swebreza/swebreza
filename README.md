@@ -5,7 +5,6 @@
 - 📫 How to reach me? Ping me at swebreza@gmail.com
 
 
-portfolio:- swebreza.tech
 
 
 <!---
