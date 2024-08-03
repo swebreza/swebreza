@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swebreza
-- 👀 I’m interested in building user-end application.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React/Django
+- 👀 I have experience in building large-scale applications
+- 🌱 I am expanding my knowledge in deployment and devops
+- 💞️ I’m looking to collaborate on Building intresting stuff
 - 📫 How to reach me? Ping me at swebreza@gmail.com
 
 
