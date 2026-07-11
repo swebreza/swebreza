@@ -2,7 +2,7 @@
 - 👀 I have experience in building large-scale applications
 - 🌱 I am expanding my knowledge in deployment and devops
 - 💞️ I’m looking to collaborate on Building intresting stuff
-- 📫 How to reach me? Ping me at swebreza@gmail.com
+- 📫 How to reach me? Connect me on linkedin https://linkedin.com/in/suwebreza/ 
 
 
 
