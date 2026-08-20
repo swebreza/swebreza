@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/himalaya-banner.svg" width="100%" alt="Himalayan Developer Banner" />
-</p>
+
 
 <h1 align="center">
   MD Suweb Reza
