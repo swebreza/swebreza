@@ -1,49 +1,52 @@
-# MD Suweb Reza
+<h1 align="center">MD Suweb Reza</h1>
 
-**Founding Engineer · Full-Stack Product Engineer**
+<p align="center">
+  <strong>Founding Engineer · Full-Stack Product Engineer</strong><br>
+  Bengaluru, India · Remote · US / EU / GCC hours
+</p>
 
-Bengaluru, India. Remote, working US, EU and GCC hours.
+<p align="center"><em>I ship whole products alone, from data model to deployed URL to first user.</em></p>
 
-I ship whole products alone, from data model to deployed URL to first user.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+    <img alt="Technology stack in three orbits. Core: Python, Django, PostgreSQL. Interface: TypeScript, React, Next.js, React Native. Platform: GCP, Docker, Celery, Redis, pgvector, Gemini." src="assets/stack-light.svg" width="880">
+  </picture>
+</p>
 
----
+<p align="center">
+  <strong>6</strong> products &nbsp;·&nbsp; <strong>17</strong> repositories &nbsp;·&nbsp; <strong>1,350+</strong> commits &nbsp;·&nbsp; <strong>6</strong> months
+</p>
 
-### Last six months
+<br>
 
-**6** products shipped · **17** repositories · **1,350+** commits · **Mar to Aug 2026**
-
-Backend, frontend, data model, infrastructure and the deploy pipeline in every case. Most of it sits in private and client repositories, so it does not show up on this profile.
-
----
-
-### Two problems I would want to be judged on
+<details>
+<summary><strong>Two problems I would want to be judged on</strong></summary>
+<br>
 
 **272 queries down to 7.** A read path in a live accounting product. An N+1 that a tree structure multiplied, where the column in question is a native Postgres enum, so the usual bulk shortcut was unavailable. The fix had to come out of the read path itself.
 
 **A connection pool that was never reused.** Recurring 500s in a live financial core, not reproducible on demand. Persistent connections are normally an optimization; under ASGI every request lands on a fresh thread, so they leak rather than get reused. I measured it instead of assuming, found reuse was exactly zero, and the payments path came back.
 
----
+</details>
 
-### Stack
-
-- **Backend** Python · Django · DRF · FastAPI · Celery · Django Channels
-- **Frontend** TypeScript · React · Next.js · React Native / Expo
-- **Data** PostgreSQL · pgvector · Redis · multi-tenant schema design
-- **Cloud** GCP · Cloud Run · Cloud Build · Docker · GitHub Actions
-- **AI** Gemini · OpenAI · embeddings · vector search · RAG
-
----
-
-### Open source
+<details>
+<summary><strong>Open source</strong></summary>
+<br>
 
 **[reza](https://github.com/swebreza/reza)** gives Claude, Cursor, Codex and Aider one shared project memory, so switching assistants stops meaning re-explaining the codebase.
 
----
+</details>
 
-### Now
+<br>
 
-Building **HiringTree** at Hiretree Labs: a multilingual workforce-mobility platform connecting workers, agencies and employers across South Asia and the GCC.
+<p align="center">
+  Building <strong>HiringTree</strong> at Hiretree Labs.<br>
+  Open to founding engineer and senior full-stack roles, remote.
+</p>
 
-Open to founding engineer and senior full-stack roles, remote.
-
-[Portfolio](https://suweb-mu.vercel.app/) · [LinkedIn](https://linkedin.com/in/suwebreza/) · swebreza@gmail.com
+<p align="center">
+  <a href="https://suweb-mu.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/suwebreza/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:swebreza@gmail.com">swebreza@gmail.com</a>
+</p>
