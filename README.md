@@ -14,7 +14,19 @@ I ship whole products alone, from data model to deployed URL to first user.
 
 Accounting and fintech, hiring, health tech, insurance, business identity, and private-market intelligence. Backend, frontend, data model, infrastructure and the deploy pipeline in every case.
 
-Most of that lives in private and client repositories, so it does not show up on this profile. The [ship log](https://suweb-mu.vercel.app/#ship-log) breaks down each product, the hardest problem in it, and the command that verifies the commit totals.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg">
+  <img alt="Commits per product vertical. Emireq 462, Hashtora 298, Zymedics 290, Credorz 86, DataZonn 37, Takafulik 7. 1,350 commits across 17 repositories, March to August 2026." src="assets/commits-light.svg" width="840">
+</picture>
+
+The verticals were not sequential. Four of them overlapped, which is the part that is hard to do alone:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <img alt="Build timeline, March to August 2026. Emireq runs 18 March to 26 August, Zymedics 21 April to 25 August, Hashtora 22 May to 26 August, Credorz 14 to 30 July, DataZonn 6 to 14 August, Takafulik 16 April." src="assets/timeline-light.svg" width="840">
+</picture>
+
+Most of this lives in private and client repositories, so it does not show up on this profile. The [ship log](https://suweb-mu.vercel.app/#ship-log) breaks down each product, the hardest problem in it, and the command that verifies the totals. Both charts above are generated from that same git data by [`assets/generate.py`](assets/generate.py).
 
 ---
 
