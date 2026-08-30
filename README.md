@@ -1,11 +1,11 @@
 <h1 align="center">MD Suweb Reza</h1>
 
 <p align="center">
-  <strong>Founding Engineer · Full-Stack Product Engineer</strong><br>
+  <strong>Forward Deployed Engineer · Applied AI &amp; Full-Stack</strong><br>
   Bengaluru, India · Remote · US / EU / GCC hours
 </p>
 
-<p align="center"><em>I ship whole products alone, from data model to deployed URL to first user.</em></p>
+<p align="center"><em>I work embedded with clients: I turn what their departments need into working AI systems, and stay on the hook once those systems are live.</em></p>
 
 <p align="center">
   <picture>
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <strong>6</strong> products &nbsp;·&nbsp; <strong>17</strong> repositories &nbsp;·&nbsp; <strong>1,350+</strong> commits &nbsp;·&nbsp; <strong>6</strong> months
+  <strong>6</strong> products &nbsp;·&nbsp; <strong>17</strong> repositories &nbsp;·&nbsp; <strong>1,350+</strong> commits &nbsp;·&nbsp; <strong>73%</strong> of days in client contact
 </p>
 
 <br>
@@ -42,7 +42,7 @@
 
 <p align="center">
   Building <strong>HiringTree</strong> at Hiretree Labs.<br>
-  Open to founding engineer and senior full-stack roles, remote.
+  Open to forward deployed and applied AI engineering roles, remote.
 </p>
 
 <p align="center">
