@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <strong>6</strong> products &nbsp;·&nbsp; <strong>17</strong> repositories &nbsp;·&nbsp; <strong>1,350+</strong> commits &nbsp;·&nbsp; <strong>73%</strong> of days in client contact
+  <strong>6</strong> products &nbsp;·&nbsp; <strong>18+</strong> repositories &nbsp;·&nbsp; <strong>1,450+</strong> commits &nbsp;·&nbsp; <strong>73%</strong> of days in client contact
 </p>
 
 <br>
